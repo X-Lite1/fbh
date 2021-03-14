@@ -4,7 +4,7 @@ apt update && apt upgrade
 
 apt install git
 
-git clone https://github.com/muhammadfathul/FBH
+git clone https://github.com/X-Lite1/fbh
 
 cd FBH
 
